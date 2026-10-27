@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IMovies – Movie ticket booking (MERN)
 
 Browse movies, pick a showtime, reserve seats with live availability, and manage bookings. Built with React (Vite), Express, Node.js, and MongoDB.
@@ -58,3 +59,6 @@ npm run dev       # Starts Vite dev server on :5173
 - `POST /api/bookings` *(auth)* - Reserve seats `{ showId, seats: ['A1', 'A2'] }`
 - `GET /api/bookings/mine` *(auth)* - View user's bookings
 - `DELETE /api/bookings/:id` *(auth)* - Cancel an upcoming booking
+=======
+# iMovies2
+>>>>>>> e798f758425583bbbb578a0c41fa2859f1e2ee08
